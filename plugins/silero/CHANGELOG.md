@@ -1,5 +1,14 @@
 # @livekit/agents-plugin-silero
 
+## 1.5.1
+
+### Patch Changes
+
+- Use the ONNX runtime path when explicitly loading `silero.VAD.load()`. - [#1944](https://github.com/livekit/agents-js/pull/1944) ([@rosetta-livekit-bot](https://github.com/apps/rosetta-livekit-bot))
+
+- Updated dependencies [[`1f881c2`](https://github.com/livekit/agents-js/commit/1f881c2b485b0dc0fcb20b835a470c7b243a4899)]:
+  - @livekit/agents@1.5.1
+
 ## 1.5.0
 
 ### Patch Changes

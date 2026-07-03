@@ -1,5 +1,11 @@
 # @livekit/agents
 
+## 1.5.1
+
+### Patch Changes
+
+- Tighten audio EOT cancellation to rely on speech activity start events. - [#1939](https://github.com/livekit/agents-js/pull/1939) ([@rosetta-livekit-bot](https://github.com/apps/rosetta-livekit-bot))
+
 ## 1.5.0
 
 ### Minor Changes

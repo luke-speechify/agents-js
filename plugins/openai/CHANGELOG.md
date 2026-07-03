@@ -1,5 +1,14 @@
 # @livekit/agents-plugin-openai
 
+## 1.5.1
+
+### Patch Changes
+
+- Emit OpenAI realtime STT start and end-of-speech events from speech activity boundaries. - [#1946](https://github.com/livekit/agents-js/pull/1946) ([@rosetta-livekit-bot](https://github.com/apps/rosetta-livekit-bot))
+
+- Updated dependencies [[`1f881c2`](https://github.com/livekit/agents-js/commit/1f881c2b485b0dc0fcb20b835a470c7b243a4899)]:
+  - @livekit/agents@1.5.1
+
 ## 1.5.0
 
 ### Minor Changes
